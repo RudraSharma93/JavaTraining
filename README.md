@@ -1,0 +1,2 @@
+# JavaTraining
+Practice Java Implementation
